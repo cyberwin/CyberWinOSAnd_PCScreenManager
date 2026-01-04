@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">ynwlzc.net</domain>
+        <domain includeSubdomains="true">ynwlzc.cn</domain>
+        <domain includeSubdomains="true">cyberwin-static.ynwlzc.cn</domain>
+        <domain includeSubdomains="true">yj.ynwlzc.cn</domain>
+        <domain includeSubdomains="true">cdn.ynwlzc.net</domain>
+        <domain includeSubdomains="true">51.onelink.ynwlzc.net</domain>
+        <domain includeSubdomains="true">cdn2024.ynwlzc.cn</domain>
+        <domain includeSubdomains="true">pc.ynwlzc.net</domain>
+        <domain includeSubdomains="true">shop.gfrj.top</domain>
+        <domain includeSubdomains="true">shop.ayrj.top</domain>
+        <domain includeSubdomains="true">app.gzpckj.top</domain>
+        <domain includeSubdomains="true">cdn2024.gzpckj.top</domain>
+        <domain includeSubdomains="true">cdn_zzsh.ynwlzc.cn</domain>
+        <domain includeSubdomains="true">pcdzkj.com</domain>
+
+    </domain-config>
+</network-security-config>
